@@ -9,4 +9,4 @@ hellloo
 himajadevi/himajadevi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-http://18.141.240.145:8080/buildStatus/icon?job=SCM)](http://18.141.240.145:8080/job/SCM
+[![Build Status](http://18.141.240.145:8080/buildStatus/icon?job=SCM)](http://18.141.240.145:8080/job/SCM/)
